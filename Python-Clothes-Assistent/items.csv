@@ -1,0 +1,40 @@
+category,name,color,temperature,style,weather
+jacket,Jacket(Zara),Black,cold,casual,rainy
+jacket,Coat(Boss),Blue,cold,formal,sunny
+shirt,T-Shirt(Massimo Duty),White,hot,casual,sunny
+shirt,T-Shirt(Zara),Black,hot,casual,rainy
+shirt,Hoddie(Massimo Duty),Black,cold,formal,sunny
+shirt,Hoddie(Armani),Black,cold,formal,rainy
+shirt,Hoddie(Zara),Red,cold,casual,rainy
+shirt,Hoddie(Boss),Gray,cold,formal,sunny
+shirt,T-Shirt4,Black,cold,formal,rainy
+shirt,T-Shirt5,White,cold,casual,sunny
+shirt,T-Shirt(Prada),Gray,medium,casual,sunny
+shirt,Sweater(Zara),Gray,medium,formal,sunny
+shirt,Sweater(Boss),Gray,medium,formal,rainy
+shirt,Sweater4,Gray,medium,formal,rainy
+pants,Short(Zara),Blue,hot,casual,rainy
+pants,Dress Pants(Boss),medium,formal,sunny
+pants,Dress Pants(Brioni),Black,medium,formal,rainy
+pants,Sweatpants(Zara),White,medium,casual,sunny
+pants,Sweatpants(Zara),Gray,medium,casual,rainy
+pants,Jeans(Zara),White,cold,casual,sunny
+pants,Dress Pants(Brioni),White,cold,formal,sunny
+pants,Jeans(Massimo Duty),Black,cold,casual,rainy
+pants,Jeans(Disquared),Black,cold,formal,sunny
+pants,Short(Zara),Gray,hot,casual,sunny
+shoes,Sneakers(Nike),White,hot,casual,rainy
+shoes,Boots(Prada),Black,hot,formal,sunny
+shoes,Sneakers(Nike),Black,hot,casual,sunny
+shoes,Nike (Jordan),White,hot,formal,rainy
+shoes,Nike (Jordan),Black,medium,casual,sunny
+shoes,Derby Shoes(Prada),Brown,cold,formal,rainy
+shoes,Sneakers(Zara),Brown,cold,formal,sunny
+shoes,Sneakers(Massimo Duty),Black,cold,casual,sunny
+shoes,Boots(Massimo Duty),Black,cold,casual,rainy
+shoes,Boots(Boss),Black,medium,formal,sunny
+shoes,Derby Shoes(Tom Ford),Brown,medium,formal,rainy
+shirt,Armani T-Shirt,black,medium,casual
+jacket,Armani Jacket,gray,medium,formal
+shoes,Balenciaga,white,medium,casual
+pants,Brioni Pants,black,medium,formal,rainy
