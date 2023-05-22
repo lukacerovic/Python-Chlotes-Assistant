@@ -1,2 +1,3 @@
 # Python-Chlotes-Assistant
-Create your wardrobe and this program will help you to choose outfit depending on the day description
+The "Python-Clotes-Assistant" program provides users with a convenient solution for managing their clothing collection and creating stylish outfits. With this program, users can easily organize their wardrobe by adding various items like shirts, pants, jackets, and shoes. By inputting relevant details about each piece of clothing, such as color, style, and temperature range, the program allows users to maintain a comprehensive inventory of their wardrobe.
+They can then use the "Find" option to generate outfit suggestions based on the input of current day details and occasion(such as formal or casual), using the items available in their wardrobe.
